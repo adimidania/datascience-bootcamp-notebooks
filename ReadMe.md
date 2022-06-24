@@ -9,3 +9,5 @@ https://docs.google.com/presentation/d/1Oo1kDWJRi95e8c_unQg1NakrBpbsCsEKsus3QyLc
 https://docs.google.com/presentation/d/1XCUu3bPozuqsm8vracMbVFBb58mE0Bpwx0GHeTWDShQ/edit?usp=sharing
 
 ## 3- Machine Learning
+
+https://docs.google.com/presentation/d/1gDEdbId38Hnqknx02j2j8493f6mpUMpXwPh_QUYwtnI/edit?usp=sharing
